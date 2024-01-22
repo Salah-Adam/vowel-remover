@@ -1,5 +1,5 @@
 def remover_vowels(text):
-    vowels = "aepuoi"
+    vowels = "aeuoi"
     consnents = ""
     for char in text:
         if char.lower() not in vowels:
